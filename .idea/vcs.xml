@@ -2,6 +2,10 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+<<<<<<< HEAD
     <mapping directory="$PROJECT_DIR$/smart-crawler" vcs="Git" />
+=======
+    <mapping directory="$PROJECT_DIR$/SmartCrawler" vcs="Git" />
+>>>>>>> 319d2339d48944f3ccda87d5c1d3e7b80d6073fe
   </component>
 </project>
