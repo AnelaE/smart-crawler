@@ -30,7 +30,7 @@ class WebCrawler:
             host='localhost',
             database='Smart-crawler',
             user='postgres',
-            password='Anela123.',
+            password='***',
             port='5432'
         )
         self.cursor = self.conn.cursor()
